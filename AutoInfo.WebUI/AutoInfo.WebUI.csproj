@@ -173,6 +173,14 @@
       <Project>{f692d3f9-c1aa-48da-9d96-3e8f2b2169f6}</Project>
       <Name>AutoInfo.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Conctete\AutoInfo.Conctete.csproj">
+      <Project>{2fa0b142-234b-4767-aab4-87fb753f3309}</Project>
+      <Name>AutoInfo.Conctete</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure\AutoInfo.Infrastructure.csproj">
+      <Project>{9d0e2dc5-064b-4a34-8549-6b4cc05aa7f0}</Project>
+      <Name>AutoInfo.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

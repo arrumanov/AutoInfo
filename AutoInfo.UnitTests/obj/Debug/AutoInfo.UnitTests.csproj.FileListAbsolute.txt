@@ -42,3 +42,7 @@ C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Ext.Net.Utilities.dll
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Ext.Net.xml
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Transformer.NET.xml
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Ext.Net.Utilities.xml
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Conctete.dll
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Infrastructure.dll
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Conctete.pdb
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.UnitTests\bin\Debug\Infrastructure.pdb

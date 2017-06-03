@@ -1,4 +1,4 @@
-﻿using AutoInfo.Domain.Concrete;
+﻿using AutoInfo.Conctete.Initializer;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

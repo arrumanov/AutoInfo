@@ -89,15 +89,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstract\ICarRepository.cs" />
-    <Compile Include="Abstract\ICountryRepository.cs" />
-    <Compile Include="Abstract\IEFDbContext.cs" />
-    <Compile Include="Abstract\IUnitOfWorkEFDbContext.cs" />
-    <Compile Include="Concrete\AutoInfoDbInitializer.cs" />
-    <Compile Include="Concrete\CarRepository.cs" />
-    <Compile Include="Concrete\CountryRepository.cs" />
-    <Compile Include="Concrete\EFDbContext.cs" />
-    <Compile Include="Concrete\UnitOfWorkEFDbContext.cs" />
     <Compile Include="Entities\Car.cs" />
     <Compile Include="Entities\Country.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

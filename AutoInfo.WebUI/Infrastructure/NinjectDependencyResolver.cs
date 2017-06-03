@@ -4,8 +4,12 @@ using System.Configuration;
 using System.Web.Mvc;
 using Moq;
 using Ninject;
-using AutoInfo.Domain.Abstract;
-using AutoInfo.Domain.Concrete;
+using AutoInfo.Conctete.Repository;
+using AutoInfo.Infrastructure.Repository;
+using AutoInfo.Infrastructure.EFContext;
+using AutoInfo.Conctete.EFContext;
+using AutoInfo.Infrastructure.UnitOfWorkEFDbContext;
+using AutoInfo.Conctete.UnitOfWorkEFDbContext;
 
 
 namespace AutoInfo.WebUI.Infrastructure

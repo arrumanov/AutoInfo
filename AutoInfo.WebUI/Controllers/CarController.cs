@@ -1,6 +1,7 @@
-﻿using AutoInfo.Domain.Abstract;
-using AutoInfo.Domain.Concrete;
+﻿using AutoInfo.Conctete.UnitOfWorkEFDbContext;
 using AutoInfo.Domain.Entities;
+using AutoInfo.Infrastructure.Repository;
+using AutoInfo.Infrastructure.UnitOfWorkEFDbContext;
 using Ext.Net;
 using Ext.Net.MVC;
 using System;

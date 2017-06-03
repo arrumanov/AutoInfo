@@ -42,3 +42,7 @@ C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Newtonsoft.Json.dll
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Ext.Net.xml
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Ext.Net.Utilities.xml
 C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Transformer.NET.xml
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Conctete.dll
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Infrastructure.dll
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Conctete.pdb
+C:\Users\Pc\Desktop\AutoInfo\AutoInfo.WebUI\bin\Infrastructure.pdb
