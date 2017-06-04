@@ -18,10 +18,9 @@ namespace AutoInfo.WebUI.Controllers
 
         //библиотека Ninject конструктор объявляет зависимость
         //от интерфейсов
-        public CarController(ICarRepository carRepository,
-            ICountryRepository countryRepository)
+        public CarController(IUnitOfWorkEFDbContext UOW)
         {
-            unitOfWork = new UnitOfWorkEFDbContext(carRepository, countryRepository);
+            unitOfWork = UOW;
         }
 
         public ActionResult Index()
